@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Luxury CRM</string>
+    <string name="default_notification_channel_id">default_channel</string>
+    <string name="default_notification_channel_name">Luxury CRM Notifications</string>
+</resources>
